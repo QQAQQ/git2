@@ -5,5 +5,6 @@ package ll;
  */
 public class lkh {
     int i=0;
+    int y=0;
 
 }
