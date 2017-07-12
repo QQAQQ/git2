@@ -7,4 +7,5 @@ public class lkh {
     int i=0;
     int y=0;
     int z = i+y;
+    int x =i+y+z;
 }
